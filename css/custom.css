@@ -11,6 +11,10 @@
     cursor: pointer;
 }
 
+.overlay:hover {
+    opacity: 1;
+}
+
 .viewicon{
     position: absolute;
     top: 100px;
@@ -136,10 +140,6 @@ h2{
 .mainimg{
     border-radius: 10px;
     cursor: pointer;
-}
-
-.overlay:hover {
-    opacity: 1;
 }
 
 .card{
